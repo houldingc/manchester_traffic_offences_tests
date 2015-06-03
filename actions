@@ -19,6 +19,15 @@ enterCourtHearingDateDay  standard_keys  id_date_of_hearing_0  id  31  0  Enter 
 enterCourtHearingDateMonth  standard_keys  id_date_of_hearing_1  id  07  0  Enter '07' in the court hearing data month input field
 enterCourtHearingDateYear  standard_keys  id_date_of_hearing_2  id  2015  0  Enter '2015' in the court hearing data year input field
 enterNumberOfCharges1  standard_keys  id_number_of_charges  id  1  0  Enter '1' in the 'Number of charges against you' input field
+enterNumberOfCharges2  standard_keys  id_number_of_charges  id  2  0  Enter '2' in the 'Number of charges against you' input field
+enterNumberOfCharges3  standard_keys  id_number_of_charges  id  3  0  Enter '3' in the 'Number of charges against you' input field
+enterNumberOfCharges4  standard_keys  id_number_of_charges  id  4  0  Enter '4' in the 'Number of charges against you' input field
+enterNumberOfCharges5  standard_keys  id_number_of_charges  id  5  0  Enter '5' in the 'Number of charges against you' input field
+enterNumberOfCharges6  standard_keys  id_number_of_charges  id  6  0  Enter '6' in the 'Number of charges against you' input field
+enterNumberOfCharges7  standard_keys  id_number_of_charges  id  7  0  Enter '7' in the 'Number of charges against you' input field
+enterNumberOfCharges8  standard_keys  id_number_of_charges  id  8  0  Enter '8' in the 'Number of charges against you' input field
+enterNumberOfCharges9  standard_keys  id_number_of_charges  id  9  0  Enter '9' in the 'Number of charges against you' input field
+enterNumberOfCharges10  standard_keys  id_number_of_charges  id  10  0  Enter '10' in the 'Number of charges against you' input field
 clickDefendantPlea  click_element  id_plea_made_by_defendant  id  NA  0  Click 'the person named in the requisition pack' radio button
 clickCompanyPlea  click_element  id_plea_made_by_company-representative  id  NA  0  Click the 'Pleading on behalf of a company' radio button
 clickCaseDetailsContinueButton  click_element  button  class_name  NA  0  Click the 'Case details' page 'Continue' button
