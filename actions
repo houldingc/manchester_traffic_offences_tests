@@ -169,7 +169,7 @@ enterOtherDisposableIncome  standard_keys  id_other_pay_amount  id  500  0  Ente
 clickOtherFinancialHardshipTrue  click_element  id_other_hardship_true  id  NA  0  Click the ‘Yes’ Radio button under ‘Would paying a fine cause you serious financial problems?’
 clickOtherFinancialHardshipFalse  click_element  id_other_hardship_false  id  NA  0  Click the ‘No’ Radio button under ‘Would paying a fine cause you serious financial problems?’
 .  .  .  .  .  0  .
-clickYourFinancesContinueButton  click_element  button  class_name  NA  0  Click the 'Your FInances' page 'Continue' button
+clickYourFinancesContinueButton  click_element  button  class_name  NA  0  Click the 'Your Finances' page 'Continue' button
 .  .  .  .  .  0  .
 .  .  .  .  .  0  .your expenses
 .  .  .  .  .  0  .
@@ -187,6 +187,8 @@ enterTelephoneExpenses  standard_keys  id_other_telephone  id  35  0  Enter ‘3
 enterLoanRepayments  standard_keys  id_other_loan_repayments  id  0  0  Enter ‘0’ in ‘Loan repayments’ under ‘Other Expenses’
 enterCountyCourtOrders  standard_keys  id_other_court_payments  id  20  0  Enter ‘20’ in ‘County court orders’ under ‘Other Expenses’
 enterChildMaintenance  standard_keys  id_other_child_maintenance  id  147  0  Enter ‘147’ in ‘Child Maintenance’ under ‘Other Expenses’
+.  .  .  .  .  0  .
+clickYourExpensesContinueButton  click_element  button  class_name  NA  0  Click the 'Your Expenses' page 'Continue' button
 .  .  .  .  .  0  .
 .  .  .  .  .  0  .company details
 .  .  .  .  .  0  .
