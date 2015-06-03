@@ -171,7 +171,7 @@ clickOtherFinancialHardshipFalse  click_element  id_other_hardship_false  id  NA
 .  .  .  .  .  0  .
 clickYourFinancesContinueButton  click_element  button  class_name  NA  0  Click the 'Your Finances' page 'Continue' button
 .  .  .  .  .  0  .
-.  .  .  .  .  0  .your expenses
+.  .  .  .  .  0  .  your expenses
 .  .  .  .  .  0  .
 enterHardshipDetails  standard_keys  id_hardship_details  id  House being repossessed  0  Enter ‘House being repossessed’ in ‘How would paying a fine cause you serious financial problems?’
 enterAccommodationExpenses  standard_keys  id_household_accommodation  id  750  0  Enter ‘750’ in ‘Accommodation’ under ‘Household Expenses’
@@ -190,7 +190,7 @@ enterChildMaintenance  standard_keys  id_other_child_maintenance  id  147  0  En
 .  .  .  .  .  0  .
 clickYourExpensesContinueButton  click_element  button  class_name  NA  0  Click the 'Your Expenses' page 'Continue' button
 .  .  .  .  .  0  .
-.  .  .  .  .  0  .company details
+.  .  .  .  .  0  .  company details
 .  .  .  .  .  0  .
 clickMoreThan12MonthsRadioButton  click_element  id_trading_period_true  id  NA  0  Click the 'Yes' radio button under 'Has the company been trading for more than 12 months?'
 clickLessThan12MonthsRadioButton  click_element  id_trading_period_false  id  NA  0  Click the 'No' radio button under 'Has the company been trading for more than 12 months?'
@@ -201,11 +201,11 @@ enterGrossTurnover  standard_keys  id_gross_turnover  id  150000  0  Enter '1500
 enterNetTurnover  standard_keys  id_net_turnover  id  110000  0  Enter '110000' in 'Gross turnover' field
 clickCompanyDetailsContinueButton  click_element  button  class_name  NA  0  Click the 'Company Details' page 'Continue' button
 .  .  .  .  .  0  .
-.  .  .  .  .  0  .confirm your company's plea
+.  .  .  .  .  0  .  confirm your plea
 .  .  .  .  .  0  .
 clickConfirmPleaCheckbox  click_element  id_understand  id  NA  0  Click the 'I confirm' checkbox
 clickMakeYourPleaButton  click_element  button-large  class_name  NA  0  Click the 'Make your plea' button
 .  .  .  .  .  0  .
-.  .  .  .  .  0  .company plea suubmitted confirmation
+.  .  .  .  .  0  .  plea suubmitted confirmation
 .  .  .  .  .  0  .
 checkConditionSentPagePrintOffCopyLink  check_condition  Print a copy  link_text  NA  0  Check the 'Print a copy' link text is found
